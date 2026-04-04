@@ -2,6 +2,11 @@
 
 This project demonstrates how to build an AI-powered backend using **Spring AI** in a Spring Boot application. It integrates with a locally running LLM via Ollama and uses the Qwen model to generate intelligent responses.
 
+## 🌐 Live Demo
+
+Check out the running application here:
+[🚀 Try the Live Demo](https://springboot-ollama-qwen-integration.onrender.com/)
+
 ## 🚀 Features
 
 * Built with Spring Boot and **Spring AI**
