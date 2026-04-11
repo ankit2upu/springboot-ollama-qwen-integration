@@ -1,9 +1,9 @@
 # 🤖 Spring AI + Ollama (Qwen) Chat API
 
-This project demonstrates how to build an AI-powered backend using **Spring AI** in a Spring Boot application. It integrates with a locally running LLM via Ollama and uses the Qwen model to generate intelligent responses.
+This project demonstrates how to build an AI-powered backend using **Spring AI** in a Spring Boot application. It integrates with a locally running LLM via Ollama and uses the Qwen(qwen2.5:3b) model to generate intelligent responses.
 
 ## 🌐 Live Demo
-Check out the running application here:👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://springboot-ollama-qwen-integration.onrender.com/)
+👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://springboot-ollama-qwen-integration.onrender.com/)
 
 
 ## 🚀 Features
